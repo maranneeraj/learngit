@@ -1,0 +1,1 @@
+C:\Users\ASUS\IdeaProjects\KotlinProjects\build\classes\kotlin\main\Animal.class;C:\Users\ASUS\IdeaProjects\KotlinProjects\build\classes\kotlin\main\MainKt.class;C:\Users\ASUS\IdeaProjects\KotlinProjects\build\classes\kotlin\main\Student.class
