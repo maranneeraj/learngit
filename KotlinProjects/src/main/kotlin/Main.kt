@@ -23,9 +23,9 @@ fun main()
     student1.age = 25
     student1.display()*/
 
-    var animal = Animal("Kutta", "Black")
+    var animal = Animal("TIGER", "Black")
 animal.displayDetails()
 
-    var animal2 = Animal("Billi", "white")
+    var animal2 = Animal("CROWN", "white")
     animal2.displayDetails()
 }
