@@ -28,4 +28,8 @@ animal.displayDetails()
 
     var animal2 = Animal("CROWN", "white")
     animal2.displayDetails()
+
+    var animal3 = Animal("LIGER", "YELLOW-BLACK")
+    animal3.displayDetails()
+
 }
