@@ -17,11 +17,11 @@ class Animal(val name:String, val color : String) {
 }
 fun main()
 {
-    /*var student1 = Student()
+    var student1 = Student()
     student1.display()
     student1.name = "Ritu"
     student1.age = 25
-    student1.display()*/
+    student1.display()
 
     var animal = Animal("TIGER", "Black")
 animal.displayDetails()
